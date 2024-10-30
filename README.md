@@ -1,3 +1,4 @@
+![Uploading Capture.PNG…]()
 Hi there! 👋 I am Muhammmad Kashif Abdullah a full stack web developer. This one is classic Dice Project, Which I have created using HTML, CSS and javaScript, want to know how it looks like click herel : If you want to run this project locally!
 
 Step # 1: Fork the repo
